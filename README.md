@@ -16,7 +16,7 @@
 </pre>
 </p>
 
-<h2 align="center">💖 ForYou_Love 💖</h2>
+<h2 align="center">💖 FORYOU_PIPAU 💖</h2>
 
 <p align="center">
 Romantic Website Template for Someone Special ❤️
